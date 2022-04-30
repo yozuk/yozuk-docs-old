@@ -1,0 +1,23 @@
+@import url('https://fonts.googleapis.com/css2?family=Josefin+Sans:wght@700&display=swap');
+
+:root,
+:root[color-mode="light"] {
+    --header-background: #aaa;
+}
+
+:root[color-mode="dark"] {
+    --header-background: #aaa;
+}
+
+.gdoc-header {
+    font-family: 'Josefin Sans',
+        sans-serif;
+}
+
+.gdoc-brand__title {
+    transform: translateY(0.3rem);
+}
+
+.gdoc-markdown__figure {
+    background: none;
+}
