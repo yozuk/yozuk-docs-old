@@ -9,7 +9,7 @@ title: Getting Started
 Yozuk is an assistant bot designed for helping programmers with trivial tasks such as UUID generation, hash calculation and timestamp conversion.
 Unlike normal command-line tools, Yozuk uses a simple NLP approach to infer the meaning of your requests, so you don't have to remember the exact syntax of commands.
 
-Yozuk is a versatile bot: You can check its talent in the [Skills](../skills) section.
+Yozuk is a versatile bot: You can check its talent in the [Skills](../../skills) section.
 
 ## Apps
 
@@ -26,7 +26,7 @@ Your inputs will be processed completely on your computer and never sent to the 
 If you prefer a terminal interface, Yozuk has a CLI application called `zuk`.
 
 There are pre-built binaries for some platforms, but you can build it from the source by yourself.
-For more information, please refer to the [Installation](../installation/cli) section.
+For more information, please refer to the [Installation](../../installation/cli) section.
 
 `zuk` has no specific syntax for input arguments.
 
