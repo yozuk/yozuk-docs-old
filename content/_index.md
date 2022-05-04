@@ -11,7 +11,7 @@ resources:
 
 ### Yozuk is an assistant bot designed for helping programmers.
 
-{{<button size="large" relref="start">}}Documentation{{</button>}}
+{{<button size="large" relref="usage/getting-started">}}Documentation{{</button>}}
 {{<button size="large" href="https://app.yozuk.com/">}}Launch Web App{{</button>}}
 
 {{< img name="zuk-screenshot" size="medium" lazy=false >}}
