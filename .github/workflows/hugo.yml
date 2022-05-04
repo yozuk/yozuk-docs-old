@@ -1,9 +1,7 @@
-name: Build Vue
+name: Hugo
 on:
   push:
     branches: [ main ]
-    paths-ignore:
-    - '**.md'
 
 jobs:
   deploy:
