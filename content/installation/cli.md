@@ -2,6 +2,8 @@
 title: Command Line App
 ---
 
+{{< toc >}}
+
 ## Pre-built Binaries
 
 Pre-built binaries for x64 Windows, Linux and macOS are available on Github.
