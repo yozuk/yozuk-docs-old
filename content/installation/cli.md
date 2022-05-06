@@ -6,9 +6,22 @@ title: Command Line App
 
 ## Pre-built Binaries
 
-Pre-built binaries for x64 Windows, Linux and macOS are available on Github.
+Pre-built binaries for x64 Windows, Linux and macOS are available on [Github](https://github.com/yozuk/yozuk/releases).
 
-{{<button size="large" href="https://github.com/yozuk/yozuk/releases">}}Github Releases{{</button>}}
+{{< tabs "installation" >}}
+{{< tab "macOS x64" >}} 
+1. Download https://github.com/yozuk/yozuk/releases/latest/download/zuk-macos-x64.tar.xz
+2. Run `tar xf zuk-macos-x64.tar.xz`
+{{< /tab >}}
+{{< tab "Linux x64" >}}
+1. Download https://github.com/yozuk/yozuk/releases/latest/download/zuk-linux-x64.tar.xz
+2. Run `tar xf zuk-linux-x64.tar.xz`
+{{< /tab >}}
+{{< tab "Windows x64" >}}
+1. Download https://github.com/yozuk/yozuk/releases/latest/download/zuk-windows-x64.zip
+2. Extract `zuk-windows-x64.zip`
+{{< /tab >}}
+{{< /tabs >}}
 
 ## Build from Source
 
