@@ -10,7 +10,7 @@ weight: 10
 We provide chatbot implementations for Telegram and Slack.
 
 {{< hint type=important >}}
-Chatbot is not the best option in terms of privacy because basically the server has access to the conversation between you and the bot in plain text.
+Chatbot is not the best option in terms of privacy because the server has access to the conversation between you and the bot in plain text.
 {{< /hint >}}
 
 ### Telegram

@@ -17,44 +17,22 @@ resources:
 {{< img name="zuk-screenshot" size="medium" lazy=false >}}
 
 
-## Feature overview
-
 {{< columns >}}
 
-### 📦Portable
+## Transparent
 
-Runs as a single-file executable.
-
-<--->
-
-### 🏝️Standalone
-
-No internet access or external database needed.
+Fully open-source, no external dependency, no internet access and no tracking. Your data is completely under your control.
 
 <--->
 
-### 🤖 Smart
+## Portable
 
-Automagically construes your requests.
-
-{{< /columns >}}
-
-{{< columns >}}
-
-### 🔒 Privacy-first
-
-Never expose any data from your computer.
+Not to mention WebAssembly support, Yozuk runs natively on Windows, macOS, Linux, Android and iOS.
 
 <--->
 
-### 🚀Fast
+## Flexible
 
-Written in Rust, compiles to native code.
-
-<--->
-
-### 📱Cross-platform
-
-Supports Windows, macOS, Linux, Android, iOS and WebAssembly.
+Yozuk’s simple text-based interface is lightweight and easy to extend. You can stay in touch with it from any device.
 
 {{< /columns >}}
