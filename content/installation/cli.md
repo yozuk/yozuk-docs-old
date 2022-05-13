@@ -43,3 +43,10 @@ git clone https://github.com/yozuk/yozuk.git
 cd yozuk/zuk
 cargo install .
 ```
+
+### Features
+
+- `rayon` (default) - Enables parallelization.
+- `rpc` (default) - Enables RPC server mode.
+- `secure-context` (default) - Restricts available system calls for further security.
+This feature takes effect only on Linux.

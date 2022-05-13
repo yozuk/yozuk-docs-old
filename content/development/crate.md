@@ -26,5 +26,5 @@ let result = zuk.run_commands(commands, &mut [], None);
 
 ## Features
 
-- `default-skills` (default) Use the default skillset.
+- `default-skills` - (default) Uses the default skillset.
 - `rayon` - Enables parallelization. This feature cannot be used with WebAssembly.
