@@ -3,10 +3,6 @@ title: Hi, I'm Yozuk!
 geekdocNav: false
 geekdocAlign: center
 geekdocAnchor: false
-resources:
-  - name: zuk-screenshot
-    src: "zuk-screenshot.png"
-    title: ""
 ---
 
 ### Yozuk is an assistant bot designed for helping programmers.
@@ -14,8 +10,7 @@ resources:
 {{<button size="large" relref="usage/getting-started">}}Documentation{{</button>}}
 {{<button size="large" href="https://app.yozuk.com/">}}Launch Web App{{</button>}}
 
-{{< img name="zuk-screenshot" size="medium" lazy=false >}}
-
+<img src="zuk-screenshot.png" width="754" />
 
 {{< columns >}}
 
