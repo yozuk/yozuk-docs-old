@@ -1,5 +1,5 @@
 ---
-title: Crates
+title: Rust
 ---
 
 ## Introduction
